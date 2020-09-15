@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2020 Goals: Finish My Personal Portfolio & Contribute to some Open Source projects
 - 🎭 Fun fact: I love photography:camera: / Fitness🏋️‍♂️ / playing Football⚽ / and Travelling🌍
+
+### Connect with me:
+
+[<img align="left" alt="afrussel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="afrussel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="afrussel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
