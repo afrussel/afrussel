@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi there, I'm Faisal. [Gesture recognition][website]! 👋
+## Hi there, I'm Faisal. [website](https://afrussel.com/) 👋
 
 ## I'm a Software Engineer!
 - 🔭 I’m currently working on [W3 Engineers Ltd.](https://w3engineers.com/)
