@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ## Hi there, 👋 I'm [Faisal][website]
 
-<br />
 
 [<img align="left" alt="afrussel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="afrussel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -57,4 +56,12 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+### 📜 Certificates
+
+- [Responsive Web Design](https://www.freecodecamp.org/certification/afrussel/responsive-web-design)
+- [Front End Libraries](https://www.freecodecamp.org/certification/afrussel/front-end-libraries)
+
 ![faisal's github stats](https://github-readme-stats.vercel.app/api?username=afrussel&show_icons=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrussel&show_icons=true&hide_border=true)](https://github.com/afrussel)
+
