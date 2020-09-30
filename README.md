@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 
 - [Responsive Web Design](https://www.freecodecamp.org/certification/afrussel/responsive-web-design)
 - [Front End Libraries](https://www.freecodecamp.org/certification/afrussel/front-end-libraries)
+- [Hackerrank Problem Solving](https://www.hackerrank.com/certificates/159428e5dbcb)
 
 ![faisal's github stats](https://github-readme-stats.vercel.app/api?username=afrussel&show_icons=true&hide_border=true)
 
