@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [W3 Engineers Ltd.](https://w3engineers.com/)
 - 🌱 I’m currently learning flutter and [react](https://reactjs.org/)
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2020 Goals: Finish My Personal Portfolio & Contribute to some Open Source projects
+- 🥅 2022 Goals: Finish My Personal Portfolio & Contribute to some Open Source projects
 - 🎭 Fun fact: I love photography:camera: / Fitness🏋️‍♂️ / playing Football ⚽ / and Travelling 🌍
 
 <br />
