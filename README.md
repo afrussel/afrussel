@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="afrussel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="afrussel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[website]: https://afrussel.com
+[website]: [https://afrussel.com](https://afrussel.netlify.app/)
 [twitter]: https://twitter.com/afrussel
 [instagram]: https://instagram.com/russel_faisal
+[linkedin]: https://www.linkedin.com/in/afrussel
 
 <br /><br />
 
@@ -62,6 +63,7 @@ Here are some ideas to get you started:
 - [Hackerrank Problem Solving](https://www.hackerrank.com/certificates/159428e5dbcb)
 - [Hackerrank CSS Certificate](https://www.hackerrank.com/certificates/20657f0faf96)
 - [Hackerrank JavaScript (Basic) Certificate](https://www.hackerrank.com/certificates/21a11fab0a43)
+- [Foundations of User Experience (UX) Design Certificate](https://www.coursera.org/account/accomplishments/verify/H8XLWFC6GA9C?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 ![faisal's github stats](https://github-readme-stats.vercel.app/api?username=afrussel&show_icons=true&hide_border=true)
 
