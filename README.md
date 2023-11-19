@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 - [Hackerrank Problem Solving](https://www.hackerrank.com/certificates/159428e5dbcb)
 - [Hackerrank CSS Certificate](https://www.hackerrank.com/certificates/20657f0faf96)
 - [Hackerrank JavaScript (Basic) Certificate](https://www.hackerrank.com/certificates/21a11fab0a43)
+- [Hackerrank React (Basic) Certificate]([https://www.hackerrank.com/certificates/21a11fab0a43](https://www.hackerrank.com/certificates/fcf8dc928501))
 - [Foundations of User Experience (UX) Design Certificate](https://www.coursera.org/account/accomplishments/verify/H8XLWFC6GA9C?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 ![faisal's github stats](https://github-readme-stats.vercel.app/api?username=afrussel&show_icons=true&hide_border=true)
